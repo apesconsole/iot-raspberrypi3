@@ -23,6 +23,7 @@ The project refers to Bootstrap and jQuery for the UI. Download them separately 
 ```
 src\main\webapp\resources
 ```
+If the start up fails to initialise, it is most likely that you should give root access to the user and possibley have to build it in th e root direcory. The pi4J will not have access if the user does not have root access.
 
 ### Built With
 * [Maven](https://maven.apache.org/) - Dependency Management
