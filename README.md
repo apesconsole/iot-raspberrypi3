@@ -11,8 +11,13 @@ displays the active Zones available to control for a specific user.
 Each of the Zones can have their own set of appliances and can be contolled by the application.
 * The sample project does not connect to any Database for the user validation.
 
-### Prerequisites & Installations
+### Prerequisites
 * Raspberry pi 3 Model B
+* Replay Switches
+
+Refer the GPIO pin numbers for the specific board before connection.
+
+### Installations
 * Raspbian
 * Tomcat
 * pi4j
