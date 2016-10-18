@@ -18,10 +18,16 @@ Each of the Zones can have their own set of appliances and can be contolled by t
 * pi4j
 * Maven
 
-## Built With
+### Project Set up
+The project refers to Bootstrap and jQuery for the UI. Download them separately and have them under 
+```
+src\main\webapp\resources
+```
+
+### Built With
 * [Maven](https://maven.apache.org/) - Dependency Management
 
-## Deployment
+### Deployment
 Once Deployed Tomcat should start up the application 
 ```
 I have renamed my Raspberry Host 'sampi' and configured Tomcat instance to run on 9080
