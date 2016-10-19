@@ -4,7 +4,7 @@ The project runs a web application and provides an user interface to interact wi
 It provides a Login and a subsequent home screen upon validation. The home screen displays 3 main zones.
 The Login also displays a Selection of Roles. Validation runs through the roles of the valid user and 
 displays the active Zones available to control for a specific user.
-* Hall
+* Drawing Room
 * Master Room
 * Guest Room
 
