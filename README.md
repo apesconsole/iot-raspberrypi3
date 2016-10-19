@@ -29,7 +29,21 @@ Refer the GPIO pin numbers for the specific board before connection.
 ### Project Set up
 The project refers to Bootstrap and jQuery for the UI. Download them separately and have them under 
 ```
-src\main\webapp\resources
+src
+  |__main
+       |__webapp
+             |__resources
+                    |__assets
+                    |     |__brand
+                    |     |__css
+                    |     |__flash
+                    |     |__img
+                    |     |__js
+                    |__dist
+                    |     |_css
+                    |__jumbotron-narrow
+                    |__navbar
+                  
 ```
 If the start up fails to initialise, it is most likely that you should give root access to the user and possibley have to build it in th e root direcory. The pi4J will not have access if the user does not have root access.
 
