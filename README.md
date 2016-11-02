@@ -28,7 +28,7 @@ Refer the GPIO pin numbers for the specific board before connection.
 
 ### Project Set up
 The project refers to Bootstrap and jQuery for the UI. Download them separately and have them under 
-```
+```js
 src
   |__main
        |__webapp
