@@ -54,5 +54,5 @@ If the start up fails to initialise, it is most likely that you should give root
 Once Deployed Tomcat should start up the application 
 ```
 I have renamed my Raspberry Host 'sampi' and configured Tomcat instance to run on 9080
-http://sampi:9080/iot-raspberrypi3-1.0/login.html
+http://raspberrypi:9080/iot-raspberrypi3-1.0/login.html
 ```
